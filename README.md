@@ -18,7 +18,7 @@ wget https://www.php.net/distributions/php-7.3.11.tar.gz -O /usr/src/php-7.3.11.
 cd /usr/src ; tar xfvz php-7.3.11.tar.gz ; cd php-7.3.11
 ```
 
-# Compile PHP 7
+## Compile PHP 7
 
 ```bash
 ./configure \
@@ -52,7 +52,7 @@ make -j 4
 
 where 4 is the number of processor cores  
 
-# Install PHP 7
+## Install PHP 7
 
 ```bash
 make install
