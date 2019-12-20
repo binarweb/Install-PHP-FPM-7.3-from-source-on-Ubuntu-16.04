@@ -209,7 +209,7 @@ systemctl start phpfpm.service
 systemctl status phpfpm.service
 ```
 
-### Rerences:
+### References:
 https://linuxadmin.io/php-fpm-php7-source/  
 https://github.com/gitKearney/php7-from-scratch  
 https://serverfault.com/questions/785502/create-daemon-on-ubuntu-16-04  
